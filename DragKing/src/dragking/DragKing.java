@@ -80,7 +80,7 @@ public class DragKing extends ApplicationFrame implements MouseListener, MouseMo
     }
     
     protected Shape getControlPoint(Point2D p) {
-        int side = 4;
+        int side = 20;
         return new Rectangle2D.Double(
             p.getX() - side / 2, p.getY() - side / 2,
             side, side);
