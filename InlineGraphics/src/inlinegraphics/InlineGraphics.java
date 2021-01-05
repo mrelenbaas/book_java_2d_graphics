@@ -18,7 +18,7 @@ public class InlineGraphics{
                 AttributedString as = new AttributedString("Star \ufffc pin");
                 as.addAttribute(TextAttribute.FONT, serifFont);
                 
-                String filename = "Raphael.jpg";
+                String filename = "roa2.jpg";
                 Image image = new javax.swing.ImageIcon(filename).getImage();
                 ImageGraphicAttribute imageAttribute = new ImageGraphicAttribute(image, GraphicAttribute.TOP_ALIGNMENT);
                 as.addAttribute(TextAttribute.CHAR_REPLACEMENT, imageAttribute, 5, 6);
