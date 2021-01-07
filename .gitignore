@@ -71,3 +71,17 @@ hs_err_pid*
 /SmoothMove/build/
 /Sampler/nbproject/private/
 /Sampler/build/
+/ComponentTest/nbproject/private/
+/ComponentTest/build/
+/IndexTest/nbproject/private/
+/IndexTest/build/
+/Bandito/nbproject/private/
+/Bandito/build/
+/PNGDecoder/nbproject/private/
+/PNGDecoder/build/
+/ShowDevices/nbproject/private/
+/ShowDevices/build/
+/ShowConfigurations/nbproject/private/
+/ShowConfigurations/build/
+/Bouncer/nbproject/private/
+/Bouncer/build/

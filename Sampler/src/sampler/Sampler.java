@@ -37,6 +37,10 @@ public class Sampler extends Frame {
         createLookups();
         createRescales();
         createColorOps();
+        
+        mOps.put("Threshold 64", new ThresholdOp(64, 0, 255));
+        mOps.put("Threshold 128", new ThresholdOp(128, 0, 255));
+        mOps.put("Threshold 192", new ThresholdOp(192, 0, 255));
     }
     
     private void createConvolutions() {
