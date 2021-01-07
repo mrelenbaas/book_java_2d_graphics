@@ -59,5 +59,20 @@ hs_err_pid*
 /VictorVector/build/
 /RollingText/nbproject/private/
 /RollingText/build/
+<<<<<<< HEAD
 /ColorBlocks/nbproject/private/
 /ColorBlocks/build/
+=======
+/RightSizer/nbproject/private/
+/RightSizer/build/
+/ClipImage/nbproject/private/
+/ClipImage/build/
+/ImageDuplicity/nbproject/private/
+/ImageDuplicity/build/
+/Annoyance/nbproject/private/
+/Annoyance/build/
+/SmoothMove/nbproject/private/
+/SmoothMove/build/
+/Sampler/nbproject/private/
+/Sampler/build/
+>>>>>>> abccbef22f4c44ec502c26d2a2e8ba9e37f84bda
