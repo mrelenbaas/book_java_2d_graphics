@@ -85,3 +85,7 @@ hs_err_pid*
 /ShowConfigurations/build/
 /Bouncer/nbproject/private/
 /Bouncer/build/
+/TextBouncer/nbproject/private/
+/TextBouncer/build/
+/ImageBouncer/nbproject/private/
+/ImageBouncer/build/
