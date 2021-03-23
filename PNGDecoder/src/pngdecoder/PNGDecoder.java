@@ -11,8 +11,8 @@ import java.awt.event.*;
 public class PNGDecoder {
 
     public static void main(String[] args) {
-        String name = "basn3p08.png";
-        if (args.length > 0) name = args[0];
+        String name = "C:\\Users\\mrele\\Documents\\book_java_2d_graphics\\PNGDecoder\\src\\pngdecoder\\basn3p08.png";
+        //if (args.length > 0) name = args[0];
         InputStream in = PNGDecoder.class.getResourceAsStream(name);
         try {
             final BufferedImage image = PNGDecoder.decode(in);

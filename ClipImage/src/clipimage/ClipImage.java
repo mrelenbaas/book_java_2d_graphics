@@ -10,7 +10,7 @@ import com.sun.image.codec.jpeg.*;
 public class ClipImage {
 
     public static void main(String[] args) {
-        String filename = "Venus of Urbino.jpg";
+        String filename = "C:\\Users\\mrele\\Documents\\book_java_2d_graphics\\Venus of Urbino.jpg";
         InputStream in = ClipImage.class.getResourceAsStream(filename);
         JPEGImageDecoder decoder = JPEGCodec.createJPEGDecoder(in);
         try {
